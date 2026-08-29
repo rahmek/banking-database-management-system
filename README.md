@@ -21,11 +21,11 @@ A practical relational database project designed around a banking environment.
 
 The project demonstrates the design and management of interconnected banking data, including:
 
--- Customers
--- Accounts
--- Branches
--- Employees
--- Departments
--- Transactions
--- Payments
--- Loans
+-Customers
+- Accounts
+- Branches
+- Employees
+- Departments
+- Transactions
+- Payments
+- Loans
