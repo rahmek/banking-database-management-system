@@ -21,7 +21,7 @@ A practical relational database project designed around a banking environment.
 
 The project demonstrates the design and management of interconnected banking data, including:
 
--Customers
+- Customers
 - Accounts
 - Branches
 - Employees
@@ -29,3 +29,19 @@ The project demonstrates the design and management of interconnected banking dat
 - Transactions
 - Payments
 - Loans
+
+## Technical concepts demonstrated
+
+- Database Design & Normalization
+- Primary & Foreign Keys
+- Referential Integrity
+- Constraints
+- SQL Queries
+- JOINs
+- Views
+- Stored Procedures
+- Functions
+- Aggregate Functions
+- GROUP BY & HAVING
+- Data Validation
+- Relational Database Managemen
